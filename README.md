@@ -24,3 +24,5 @@ Project Sequence:
 5. Final Dashboard
 📊 In the final stage of the project, an interactive sales analysis dashboard is created. It encompasses a wide range of visual elements.
 6. Data Analysis: Important Key Metrics
+
+Skills: Microsoft Power BI · Business Analytics · Data Cleaning · Data Analytics · Microsoft Excel
